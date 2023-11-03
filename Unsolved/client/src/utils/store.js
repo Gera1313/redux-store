@@ -3,7 +3,10 @@ import rootReducer from './reducers';
 
 const store = configureStore({
   reducer: rootReducer,
-  // Add any other store configurations if needed
+  initialState: {
+    cart: [],
+    cartOpen: false,
+  },
 });
 
 export default store;
