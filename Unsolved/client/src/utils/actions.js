@@ -16,3 +16,46 @@ export const addToCart = (product) => {
       product,
     };
   };
+
+  export const updateCartQuantity = (id, quantity) => {
+    return {
+      type: UPDATE_CART_QUANTITY,
+      id,
+      quantity,
+    };
+  };
+
+  export const updateProducts = (products) => {
+    return {
+      type: UPDATE_PRODUCTS,
+      products,
+    };
+  };
+
+  export const removeFromCart = (productId) => ({
+    type: REMOVE_FROM_CART,
+    productId,
+  });
+
+  export const clearCart = () => ({
+    type: CLEAR_CART,
+  });
+
+  export const toggleCart = () => ({
+    type: TOGGLE_CART,
+  });
+  
+  export const updateCategories = (categories) => ({
+    type: UPDATE_CATEGORIES,
+    categories,
+  });
+  
+  export const updateCurrentCategory = (categoryId) => ({
+    type: UPDATE_CURRENT_CATEGORY,
+    categoryId,
+  });
+
+  export const addMultipleToCart = (products) => ({
+    type: ADD_MULTIPLE_TO_CART,
+    products,
+  });
