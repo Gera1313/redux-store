@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { useQuery } from '@apollo/client';
+import { useSelector, useDispatch } from 'react-redux';
 import {
   updateCategories,
   updateCurrentCategory,
