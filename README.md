@@ -69,3 +69,7 @@ You'll use the Stripe API to process payments, which includes making front-end a
 ## Links
 
 https://redux.js.org/introduction/getting-started
+
+## Error
+
+Uncaught SyntaxError: The requested module '/src/components/CategoryMenu/index.js' does not provide an export named 'default' (at Home.jsx:3:8)
