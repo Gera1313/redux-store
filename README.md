@@ -88,7 +88,7 @@ The following images show the CURRENT web application's appearance and functiona
 
 ## Credits
 
-Big help thanks to the module activities. Watched the Zoom recordings. Will continue with this project at a later time when I'm not pressed with time (see Notes section above).
+Big help thanks to the module activities. Watched the Zoom recordings. Will continue with this project at a later time when I'm not pressed with time (see Notes section above). Tutor Jere Wongani. 
 
 ## Licenses
 
