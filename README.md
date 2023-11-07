@@ -1,12 +1,8 @@
-# State: Redux Store (Extra Credit)
+# State: Redux Store
 
 ## The Task
 
-The challenge this week is to refactor the e-commerce platform from [Activity 26](../01-Activities/26-Stu_Actions-Reducers/Unsolved) so that it uses [Redux](https://redux.js.org/). You won’t need to make sweeping changes to the code, but you will need to read through the Redux documentation on your own to find the information you need. Some guidelines have been provided in the Getting Started section to point you in the right direction. If you haven't yet, download the [e-commerce platform code from Activity 26](http://static.fullstack-bootcamp.com/fullstack-ground/unit-22/26-Stu_Actions-Reducers.zip).
-
-**On the Job**: Web developers frequently have to immerse themselves in a new technology to solve a problem, with only that tool’s documentation for help. They must sift through it to find the information that matches the specific problem they’re trying to solve. This assignment will allow you to practice a skill that you’ll use many times over the course of your career.
-
-Remember, this module's Challenge is extra credit. It is not required for submission, nor will it count towards one of the two assignments that you can skip. If you choose to submit this Challenge, you will receive extra credit points on your final grade. However, if you choose not to submit it, your final grade will not be affected in any way. This Challenge is an opportunity for you to further practice your skills and get feedback on it, with the added incentive of receiving extra credit for the work.
+The challenge this week is to refactor an e-commerce platform from so that it uses [Redux](https://redux.js.org/).
 
 ## User Story
 
@@ -34,7 +30,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Mock-Up
 
-This section reviews the web application's general appearance and functionality.
+This section reviews the web application's general appearance and functionality. This is what it is supposed to look like once it is refactored and done. This is the goal. 
 
 The following animation shows how a user can register using the Signup page and then navigate to the Products page:
 
@@ -66,10 +62,35 @@ You'll use the Stripe API to process payments, which includes making front-end a
   }
   ```
 
+## Notes
+
+Behind on other projects. Just started this one and it's due Nov 8. Will look at it again sometime after November 15 when I have more time and I'm in no pressure to complete assignments by Nov 15 and when I don't have a 3rd and final project to focus on. I have refactored to the best of my knowledge but I am encountering errors and I need to fix them. Stay tuned! 
+
+## Usage
+
+The following images show the CURRENT web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
+
+![One of the errors](./Assets/home.png) 
+
+## Installation
+
+```npm install```
+
+```npm run develop```
+
 ## Links
 
-https://redux.js.org/introduction/getting-started
+[Repository](https://github.com/Gera1313/22-redux-store)
 
-## Error
+[Deployed Link](Insert here when available)
 
-Uncaught SyntaxError: The requested module '/src/components/CategoryMenu/index.js' does not provide an export named 'default' (at Home.jsx:3:8)
+[Getting Started With Redux](https://redux.js.org/introduction/getting-started)
+
+## Credits
+
+Big help thanks to the module activities. Watched the Zoom recordings. Will continue with this project at a later time when I'm not pressed with time (see Notes section above).
+
+## Licenses
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
