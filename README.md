@@ -1,6 +1,6 @@
 # State: Redux Store
 
-## The Task
+## My Project
 
 The challenge this week is to refactor an e-commerce platform from so that it uses [Redux](https://redux.js.org/).
 
