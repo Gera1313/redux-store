@@ -86,10 +86,6 @@ The following images show the CURRENT web application's appearance and functiona
 
 [Getting Started With Redux](https://redux.js.org/introduction/getting-started)
 
-## Credits
-
-Big help thanks to the module activities. Watched the Zoom recordings. Will continue with this project at a later time when I'm not pressed with time (see Notes section above). Tutor Jere Wongani. 
-
 ## Licenses
 
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
