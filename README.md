@@ -64,7 +64,7 @@ You'll use the Stripe API to process payments, which includes making front-end a
 
 ## Notes
 
-Behind on other projects. Just started this one and it's due Nov 8. Will look at it again sometime after November 15 when I have more time and I'm in no pressure to complete assignments by Nov 15 and when I don't have a 3rd and final project to focus on. I have refactored to the best of my knowledge but I am encountering errors and I need to fix them. Stay tuned! 
+July 12, 2024: Re-visiting this project. 
 
 ## Usage
 
