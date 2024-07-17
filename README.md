@@ -64,7 +64,7 @@ You'll use the Stripe API to process payments, which includes making front-end a
 
 ## Notes
 
-July 15, 2024: Re-visiting this project. I am to fix the errors. 
+July 17, 2024: Re-visiting this project. I am to fix the errors. 
 
 ## Usage
 
