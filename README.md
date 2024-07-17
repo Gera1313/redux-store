@@ -80,7 +80,7 @@ The following images show the CURRENT web application's appearance and functiona
 
 ## Links
 
-[Repository](https://github.com/Gera1313/22-redux-store)
+[Repository](https://github.com/Gera1313/redux-store)
 
 [Deployed Link](Insert here when available)
 
