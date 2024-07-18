@@ -30,7 +30,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Mock-Up
 
-This section reviews the web application's general appearance and functionality.
+This section reviews the web application's appearance and functionality.
 
 The following animation shows how a user can register using the Signup page and then navigate to the Products page:
 
