@@ -62,12 +62,6 @@ I have used the Stripe API to process payments, which includes making front-end 
   }
   ```
 
-## Usage
-
-The following images show the CURRENT web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
-
-![One of the errors](./Assets/home.png) 
-
 ## Installation
 
 ```npm install```
