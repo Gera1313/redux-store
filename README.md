@@ -50,6 +50,8 @@ UPDATE: July 17, 2024: Re-visiting this project to fix the errors.
 
 July 22, 2024: Fixed most errors. 
 
+Going on vacation for two weeks. Will work on this later. 
+
 For instructions to add Redux to your application, refer to the [Redux Fundamentals basic tutorial](https://redux.js.org/basics/basic-tutorial).
 
 I have used the Stripe API to process payments, which includes making front-end and back-end changes. Don't worry, Stripe provides test credentials, so you won't need to use a real credit card to try it out. Refer to the [Stripe docs on testing your integration](https://stripe.com/docs/testing).
