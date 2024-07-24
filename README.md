@@ -47,6 +47,7 @@ Finally, the user can check out by going to their shopping cart, as shown in the
 ## Notes
 
 UPDATE: July 17, 2024: Re-visiting this project to fix the errors. 
+
 July 22, 2024: Fixed most errors. 
 
 For instructions to add Redux to your application, refer to the [Redux Fundamentals basic tutorial](https://redux.js.org/basics/basic-tutorial).
