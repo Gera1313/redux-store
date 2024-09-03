@@ -48,7 +48,7 @@ Finally, the user can check out by going to their shopping cart, as shown in the
 
 UPDATE: July 17, 2024: Re-visiting this project to fix the errors. 
 
-July 22, 2024: Fixed most errors. 
+July 22, 2024: Fixed most errors, but still works fine. 
 
 Going on vacation for two weeks. Will work on this later. 
 
